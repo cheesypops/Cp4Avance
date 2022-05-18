@@ -1,0 +1,12 @@
+C:\Users\djxvi\OneDrive\Documentos\uca clases\POO\Cp4_con_Chiki\Cp4Avance\CP4avance\CP4avance\bin\Debug\CP4avance.exe.config
+C:\Users\djxvi\OneDrive\Documentos\uca clases\POO\Cp4_con_Chiki\Cp4Avance\CP4avance\CP4avance\bin\Debug\CP4avance.exe
+C:\Users\djxvi\OneDrive\Documentos\uca clases\POO\Cp4_con_Chiki\Cp4Avance\CP4avance\CP4avance\bin\Debug\CP4avance.pdb
+C:\Users\djxvi\OneDrive\Documentos\uca clases\POO\Cp4_con_Chiki\Cp4Avance\CP4avance\CP4avance\obj\Debug\CP4avance.csproj.AssemblyReference.cache
+C:\Users\djxvi\OneDrive\Documentos\uca clases\POO\Cp4_con_Chiki\Cp4Avance\CP4avance\CP4avance\obj\Debug\CP4avance.csproj.SuggestedBindingRedirects.cache
+C:\Users\djxvi\OneDrive\Documentos\uca clases\POO\Cp4_con_Chiki\Cp4Avance\CP4avance\CP4avance\obj\Debug\CP4avance.Properties.Resources.resources
+C:\Users\djxvi\OneDrive\Documentos\uca clases\POO\Cp4_con_Chiki\Cp4Avance\CP4avance\CP4avance\obj\Debug\CP4avance.csproj.GenerateResource.cache
+C:\Users\djxvi\OneDrive\Documentos\uca clases\POO\Cp4_con_Chiki\Cp4Avance\CP4avance\CP4avance\obj\Debug\CP4avance.csproj.CoreCompileInputs.cache
+C:\Users\djxvi\OneDrive\Documentos\uca clases\POO\Cp4_con_Chiki\Cp4Avance\CP4avance\CP4avance\obj\Debug\CP4avance.exe
+C:\Users\djxvi\OneDrive\Documentos\uca clases\POO\Cp4_con_Chiki\Cp4Avance\CP4avance\CP4avance\obj\Debug\CP4avance.pdb
+C:\Users\djxvi\OneDrive\Documentos\uca clases\POO\Cp4_con_Chiki\Cp4Avance\CP4avance\CP4avance\obj\Debug\CP4avance.frmPrincipal.resources
+C:\Users\djxvi\OneDrive\Documentos\uca clases\POO\Cp4_con_Chiki\Cp4Avance\CP4avance\CP4avance\obj\Debug\CP4avance.frmDatos.resources
